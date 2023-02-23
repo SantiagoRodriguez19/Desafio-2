@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "desafio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileSystem.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
